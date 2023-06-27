@@ -1,0 +1,2 @@
+# MineCW
+Minecraft Class Wars
